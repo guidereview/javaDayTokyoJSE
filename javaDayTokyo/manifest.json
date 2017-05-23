@@ -1,0 +1,10 @@
+{
+"runtime":{
+"majorVersion":"8"
+},
+"command": "java -jar javaDayTokyo-0.0.1-SNAPSHOT.war",
+"startupTime":120,
+"shutdownTime":30,
+"release": {},
+"notes": "Java Day Tokyo Tomcat Application"
+}
